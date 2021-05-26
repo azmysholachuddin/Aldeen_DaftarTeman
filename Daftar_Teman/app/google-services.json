@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1033195342450",
-    "project_id": "daftarteman-d0a8a",
-    "storage_bucket": "daftarteman-d0a8a.appspot.com"
+    "project_number": "337553236438",
+    "project_id": "daftarteman-3aa37",
+    "storage_bucket": "daftarteman-3aa37.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1033195342450:android:5b4c4c83f689a7bb3010eb",
+        "mobilesdk_app_id": "1:337553236438:android:a06aa9e5c2c335a09e0477",
         "android_client_info": {
           "package_name": "com.example.daftarteman"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1033195342450-vcbhr891eeb0koetea1p3qlkv8m724v4.apps.googleusercontent.com",
+          "client_id": "337553236438-qvutp9j3fjn9d9iiuhd5kc3lo66agi03.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyADNr9rTEsmnQYyvKwax2nLDtyIr1FSo3A"
+          "current_key": "AIzaSyBeQIVjAVAS3XW9WAUpC0wIcDu1lDiURnU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1033195342450-vcbhr891eeb0koetea1p3qlkv8m724v4.apps.googleusercontent.com",
+              "client_id": "337553236438-qvutp9j3fjn9d9iiuhd5kc3lo66agi03.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
